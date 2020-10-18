@@ -1,4 +1,5 @@
 .new-style {
      flex: 0 0 100%;
      flex-direction: row;
+     color: white;
  }
