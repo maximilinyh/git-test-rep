@@ -3,7 +3,7 @@ document.querySelectorAll('.test').addEventListener('click',()=>{
 })
 
 const test = () => {
-    console.log('test');
+    console.log('active');
 }
 
 test();
