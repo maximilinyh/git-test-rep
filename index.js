@@ -1,5 +1,3 @@
-const { fuchsia } = require("color-name");
-
 document.querySelectorAll('.test').addEventListener('click',()=>{
     alert('test');
 })
