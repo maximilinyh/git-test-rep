@@ -7,3 +7,5 @@ const test = () => {
 }
 
 test();
+
+console.log('new');
