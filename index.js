@@ -9,4 +9,9 @@ const test = () => {
 test();
 
 console.log('new');
-console.log('super new');
+
+function sum (a, b) {
+    return a + b;
+};
+
+sum(1, 2);
