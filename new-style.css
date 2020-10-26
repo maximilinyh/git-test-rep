@@ -1,12 +1,3 @@
-.new-style {
-     flex: 0 0 100%;
-     flex-direction: row;
-     color: white;
-     text-align: center;
-     background-color: #890;
-     align-items: center;
- }
-
  .test {
      color: black;
  }
