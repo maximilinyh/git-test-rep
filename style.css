@@ -6,4 +6,5 @@ test-2 {
 .test-3 {
     color: red !important;
     background-color: #ccc;
+    color: #ccc;
 }
