@@ -8,8 +8,6 @@ const test = () => {
 
 test();
 
-console.log('new');
-
 function sum (a, b) {
     return a + b;
 };
