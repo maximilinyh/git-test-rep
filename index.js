@@ -9,5 +9,5 @@ const test = () => {
 test();
 
 function sum (a, b) {
-    return a + b;
+    return a + bc;
 };
